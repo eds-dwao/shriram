@@ -20823,7 +20823,7 @@ mat-month-view .mat-calendar-body-today,mat-month-view .mat-calendar-body-cell-c
 @media (min-width: 1200px) {
     .super-web .navbar--main {
         width:100%;
-        padding: 0px 75px;
+        padding: 0;
         box-shadow: none;
         position: static;
         overflow-y: initial;

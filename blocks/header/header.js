@@ -1,6 +1,6 @@
 export default function decorate(block) {
   const container = document.createElement('div');
-  container.setAttribute('class', 'container');
+  container.setAttribute('class', 'containers');
 
   const headerEl = document.createElement('header');
   headerEl.setAttribute('_ngcontent-serverapp-c284380868', '');
